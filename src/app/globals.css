@@ -21,8 +21,9 @@ body {
   display: flex;
   font-family: Georgia, serif;
   justify-content: center;
-  margin: 0;
+  margin: 20;
   min-height: 100vh;
+  padding-top: 20px;
 
   @media screen and (min-width: 768px) {
     align-items: center;
@@ -36,14 +37,14 @@ body {
 }
 
 h1 {
-  font-size: 28px;
-  margin-bottom: 20px;
+  font-size: 30px;
+  line-height: 30px;
 }
 
 p {
   font-size: 16px;
-  line-height: 1.6;
-  margin-bottom: 10px;
+  line-height: 2;
+  margin-bottom: 24px;
 }
 
 a {
