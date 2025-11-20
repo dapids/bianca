@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Piccerella mia",
-  description: "A poem I wrote for the birth of my daughter Bianca.",
+  description: "Una poesia che ho scritto per celebrare la nascita della mia piccola Bianca.",
 };
 
 export default function RootLayout({
