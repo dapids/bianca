@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /.next/
+
+Sitemap: https://bianca.davidsorrentino.com/sitemap.xml
